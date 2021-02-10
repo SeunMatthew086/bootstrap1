@@ -75,8 +75,17 @@ html, body {
   margin-bottom: 1rem;
 }
 
+.fa-code {
+  color: #e54d26;
+}
 
+.fa-bold {
+  color: #563d72;
+}
 
+.fa-css3 {
+  color: #2163af;
+}
 
 
 /*---Media Queries --*/
